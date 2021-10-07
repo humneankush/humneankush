@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @humneankush
-- 👀 I’m interested in python
-- 🌱 I’m currently learning react
+- 👀 I’m interested in python & javascript
+- 🌱you can check my react project on git
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me at humneankush@gmail.com
 
